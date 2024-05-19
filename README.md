@@ -1,4 +1,4 @@
- ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A700F0&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos+soy+BMRX845;Entuciasta+al+Hacking;y;Al+desarrollo+backend+y+frondend)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A700F0&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos+soy+BMRX845;Entusiasta+al+Hacking;y;Al+desarrollo+backend+y+frondend)
  <!-------------->
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BRMX845&bg_color=0d1117&color=A700F0&line=A700F0&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <!-------------->
