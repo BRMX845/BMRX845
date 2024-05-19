@@ -1,6 +1,6 @@
  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=02D9F7FF&size=35&center=true&vCenter=true&width=1000&lines=Bienvenidos+soy+BMRX845;Entuciasta+al+Hacking;y;Al+desarrollo+backend+y+frondend)
  <!-------------->
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bmrx&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BRMX845&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   <!-------------->
   <h2 align="left">Sobre mi👋!</h2>
 
@@ -27,14 +27,14 @@
 ###
 - 🌱 I’m currently learning **defensive and attacking cybersecurity**
 
-- 👨‍💻 All of my projects are available at [https://bmrx845.github.io](https://bmrx845.github.io)
+- 👨‍💻 All of my projects are available at [https://bmrx845.github.io](https://brmx845.github.io)
 
 - 💬 Ask me about **vue, archlinux and python**
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bmrx&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bmrx&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=BRMX845&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BRMX845&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
